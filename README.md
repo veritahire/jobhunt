@@ -86,6 +86,7 @@ The free search allows about 30 searches an hour from one network. For more, and
 Search requests carry job titles or keywords, a place and your filters. They never carry your résumé,
 name, phone or email. `/veritahire:watch` sends the email address you give it, once you confirm, so the daily
 email can reach you. VeritaHire's privacy policy: https://veritahire.com/privacy.php
+Terms of service: https://veritahire.com/terms.php
 
 ## About
 
