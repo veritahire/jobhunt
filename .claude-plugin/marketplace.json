@@ -1,0 +1,20 @@
+{
+  "name": "veritahire",
+  "owner": {
+    "name": "VeritaHire",
+    "email": "data@veritahire.com",
+    "url": "https://veritahire.com"
+  },
+  "description": "Live US job data for AI agents: 2.5M+ jobs read straight from 19,000+ employers' own career sites, re-checked every 36 hours.",
+  "plugins": [
+    {
+      "name": "jobhunt",
+      "source": "./",
+      "displayName": "Job Hunt: live US jobs that fit your résumé",
+      "description": "Find real, open US jobs that fit your résumé: 2.5M+ live jobs from employers' own career sites, with pay, requirements, distance and the employer's apply link. No ghost jobs, no key.",
+      "version": "0.1.0",
+      "category": "Productivity",
+      "tags": ["jobs", "job-search", "career", "resume", "hiring"]
+    }
+  ]
+}

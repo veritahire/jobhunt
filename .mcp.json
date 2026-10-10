@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "veritahire-jobs": {
+      "type": "http",
+      "url": "https://veritahire.com/mcp"
+    }
+  }
+}
