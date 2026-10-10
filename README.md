@@ -11,7 +11,7 @@ Works in **Claude Code** as a plugin, and in **Codex, Cursor, VS Code, Gemini CL
 claude.ai** through the same MCP server. Free. No account, no key.
 
 ```
-/plugin marketplace add robgundling1211/jobhunt
+/plugin marketplace add veritahire/jobhunt
 /plugin install jobhunt@veritahire
 ```
 
@@ -78,7 +78,7 @@ The free search allows about 30 searches an hour from one network. For more, and
   https://veritahire.com/verified-jobs-feed/
 - **Docs**: https://veritahire.com/developers/docs/
 - **Clients**: `pip install veritahire`, `npm install veritahire`
-- **career-ops** users: [career-ops-plugin-veritahire](https://github.com/robgundling1211/career-ops-plugin-veritahire)
+- **career-ops** users: [career-ops-plugin-veritahire](https://github.com/veritahire/career-ops-plugin-veritahire)
   adds these jobs to your career-ops pipeline.
 
 ## Privacy
@@ -91,6 +91,6 @@ email can reach you. VeritaHire's privacy policy: https://veritahire.com/privacy
 
 Built by [VeritaHire](https://veritahire.com), which reads US job postings straight from employers' own
 career sites every day and publishes how fresh its data is at https://veritahire.com/jobdata.php.
-Questions: data@veritahire.com or [open an issue](https://github.com/robgundling1211/jobhunt/issues).
+Questions: data@veritahire.com or [open an issue](https://github.com/veritahire/jobhunt/issues).
 
 MIT licensed.

@@ -11,7 +11,7 @@ skills folder; for others, paste it into your project instructions (AGENTS.md, r
 ## Claude Code
 
 ```
-/plugin marketplace add robgundling1211/jobhunt
+/plugin marketplace add veritahire/jobhunt
 /plugin install jobhunt@veritahire
 ```
 
