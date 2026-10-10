@@ -12,7 +12,7 @@ skills folder; for others, paste it into your project instructions (AGENTS.md, r
 
 ```
 /plugin marketplace add veritahire/jobhunt
-/plugin install jobhunt@veritahire
+/plugin install veritahire@veritahire
 ```
 
 Or the server alone: `claude mcp add --transport http veritahire-jobs https://veritahire.com/mcp`

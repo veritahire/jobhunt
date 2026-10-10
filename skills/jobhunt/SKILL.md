@@ -21,7 +21,7 @@ out of applying.
   `min_pay` (annual, or hourly if under 300; jobs that do not post pay are kept and listed last),
   `employment_type` (full_time, part_time, contract, seasonal, temporary), `posted_within_days`
   (1, 3, 7, 14, 30), `title_exclude` (comma-separated words to leave out of titles), `sort` (new, pay,
-  near; default best match), `page` (pass `next_page` from the previous result).
+  near; default best match), `page` (the `next_page` value from the previous result).
   Returns 25 jobs a page with pay as posted, annual pay (typical and top), what the posting asks for
   (education, licences, years required and preferred), distance, first seen, last confirmed on the
   employer's site, and `apply_url` (the employer's own posting).

@@ -1,5 +1,5 @@
 ---
-description: Is this job posting still open, or a ghost job? Checks it against the employer's own career site. Example - /jobhunt:check https://company.wd1.myworkdayjobs.com/...
+description: Is this job posting still open, or a ghost job? Checks it against the employer's own career site. Example - /veritahire:check https://company.wd1.myworkdayjobs.com/...
 argument-hint: "<job posting URL>"
 ---
 

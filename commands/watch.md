@@ -1,5 +1,5 @@
 ---
-description: Get new matching jobs by email every day. Example - /jobhunt:watch me@example.com registered nurse, Houston, TX
+description: Get new matching jobs by email every day. Example - /veritahire:watch me@example.com registered nurse, Houston, TX
 argument-hint: "[your email] [job title], [City, ST | ZIP | remote]"
 ---
 

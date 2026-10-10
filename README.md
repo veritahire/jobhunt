@@ -12,7 +12,7 @@ claude.ai** through the same MCP server. Free. No account, no key.
 
 ```
 /plugin marketplace add veritahire/jobhunt
-/plugin install jobhunt@veritahire
+/plugin install veritahire@veritahire
 ```
 
 ## Why it's different
@@ -30,10 +30,10 @@ claude.ai** through the same MCP server. Free. No account, no key.
 ## Use it
 
 ```
-/jobhunt:find resume.pdf Austin, TX
-/jobhunt:find resume.md remote, full time, $90k
-/jobhunt:watch you@example.com registered nurse, Houston, TX
-/jobhunt:check https://company.wd1.myworkdayjobs.com/en-US/careers/job/...
+/veritahire:find resume.pdf Austin, TX
+/veritahire:find resume.md remote, full time, $90k
+/veritahire:watch you@example.com registered nurse, Houston, TX
+/veritahire:check https://company.wd1.myworkdayjobs.com/en-US/careers/job/...
 ```
 
 Or just talk to it: *"I'm a CDL-A driver near Dayton, what's hiring this week that pays at least $25 an
@@ -41,9 +41,9 @@ hour?"* The skill loads on its own when you ask about finding jobs.
 
 | Command | What it does |
 |---|---|
-| `/jobhunt:find` | Reads your résumé locally, runs 3 to 6 searches built from your experience, ranks the matches by fit, and goes deeper on the top three. |
-| `/jobhunt:watch` | Emails you new matching jobs every day (you confirm by clicking a link). |
-| `/jobhunt:check` | Is this posting still open, or a ghost job? Checked against the employer's own site. |
+| `/veritahire:find` | Reads your résumé locally, runs 3 to 6 searches built from your experience, ranks the matches by fit, and goes deeper on the top three. |
+| `/veritahire:watch` | Emails you new matching jobs every day (you confirm by clicking a link). |
+| `/veritahire:check` | Is this posting still open, or a ghost job? Checked against the employer's own site. |
 
 ## What a search returns
 
@@ -59,7 +59,7 @@ hour. 861 live jobs matched; here are the first five.
 | RN Coord - Endoscopy - Kelsey Seybold Clinics - Memorial Village. | UnitedHealth Group | Houston, Texas | $35 - $63 per hour | RN, bachelor, 3 yr | Oct 9 |
 
 Each result also carries the employer's own apply link, the distance from you, the annual pay range, and
-when it was last confirmed on the employer's site. `/jobhunt:find` adds a fit rating for you and a short
+when it was last confirmed on the employer's site. `/veritahire:find` adds a fit rating for you and a short
 read of the top postings.
 
 ## Other AI tools
@@ -84,7 +84,7 @@ The free search allows about 30 searches an hour from one network. For more, and
 ## Privacy
 
 Search requests carry job titles or keywords, a place and your filters. They never carry your résumé,
-name, phone or email. `/jobhunt:watch` sends the email address you give it, once you confirm, so the daily
+name, phone or email. `/veritahire:watch` sends the email address you give it, once you confirm, so the daily
 email can reach you. VeritaHire's privacy policy: https://veritahire.com/privacy.php
 
 ## About

@@ -1,5 +1,5 @@
 ---
-description: Find live US jobs that fit your résumé, near a city or ZIP or remote. Example - /jobhunt:find resume.pdf Austin, TX
+description: Find live US jobs that fit your résumé, near a city or ZIP or remote. Example - /veritahire:find resume.pdf Austin, TX
 argument-hint: "[résumé file] [City, ST | ZIP | remote] [anything else, e.g. 40 miles, $70k, full time]"
 ---
 
