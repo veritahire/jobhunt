@@ -79,6 +79,7 @@ The free search allows about 30 searches an hour from one network. For more, and
 - **Docs**: https://veritahire.com/developers/docs/
 - **Clients**: `pip install veritahire`, `npm install veritahire`
 - **career-ops** users: [career-ops-plugin-veritahire](https://github.com/veritahire/career-ops-plugin-veritahire)
+- **Daily job lists** (star to follow): [entry-level](https://github.com/veritahire/us-entry-level-jobs) · [internships](https://github.com/veritahire/us-internships) · [remote](https://github.com/veritahire/remote-jobs-us) · [nursing](https://github.com/veritahire/nursing-jobs-us) · [jobs that post pay](https://github.com/veritahire/jobs-with-pay-us)
   adds these jobs to your career-ops pipeline.
 
 ## Privacy
