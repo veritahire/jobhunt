@@ -15,6 +15,8 @@ claude.ai** through the same MCP server. Free. No account, no key.
 /plugin install veritahire@veritahire
 ```
 
+**Gemini CLI:** `gemini extensions install https://github.com/veritahire/jobhunt` (same MCP server, same instructions).
+
 ## Why it's different
 
 - **Every job is really open.** Each one is re-checked on the employer's own site and taken down within

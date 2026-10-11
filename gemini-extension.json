@@ -1,0 +1,11 @@
+{
+  "name": "veritahire",
+  "version": "0.1.0",
+  "description": "Live US jobs that fit your résumé, read straight from 19,000+ employers' own career sites: posted pay, requirements, still-open checks, employer apply links.",
+  "mcpServers": {
+    "veritahire": {
+      "httpUrl": "https://veritahire.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
