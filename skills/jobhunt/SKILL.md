@@ -27,8 +27,8 @@ out of applying.
   employer's site, and `apply_url` (the employer's own posting).
 - `get_job` — the whole posting text and its requirement facts, by `job_id` or `url`.
 - `is_job_still_open` — is a posting still on the employer's site? By `url` or `job_id`.
-- `save_search` — emails the person a one-click link that starts a daily email of new jobs matching a
-  search. Only with an email address the person gives you, after they say yes.
+- `save_search` — returns a link for a search. The person opens it, types their own email address on
+  veritahire.com and confirms; then they get new matching jobs by email every day. It sends no email.
 - `report_problem` — tell VeritaHire about a wrong job (closed, wrong place, wrong pay).
 
 ## How to run a search
@@ -64,8 +64,8 @@ out of applying.
 6. **Go deeper on the top picks.** For the top three, call `get_job` and tell the person what the employer
    emphasizes, which of their experiences to lead with, and any question the application is likely to ask.
 
-7. **Offer to keep watching.** Ask if they want new matches by email each day. If yes, ask for the email
-   address, confirm the search, then call `save_search`. They click a link in the email to start it.
+7. **Offer to keep watching.** Ask if they want new matches by email each day. If yes, call `save_search`
+   with the search and give them the link it returns; they enter their own email there. Never ask for it here.
 
 ## Rules
 

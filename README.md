@@ -42,7 +42,7 @@ hour?"* The skill loads on its own when you ask about finding jobs.
 | Command | What it does |
 |---|---|
 | `/veritahire:find` | Reads your résumé locally, runs 3 to 6 searches built from your experience, ranks the matches by fit, and goes deeper on the top three. |
-| `/veritahire:watch` | Emails you new matching jobs every day (you confirm by clicking a link). |
+| `/veritahire:watch` | Gives you a link to get new matching jobs by email every day (you enter your own email on veritahire.com). |
 | `/veritahire:check` | Is this posting still open, or a ghost job? Checked against the employer's own site. |
 
 ## What a search returns
@@ -85,8 +85,8 @@ The free search allows about 30 searches an hour from one network. For more, and
 ## Privacy
 
 Search requests carry job titles or keywords, a place and your filters. They never carry your résumé,
-name, phone or email. `/veritahire:watch` sends the email address you give it, once you confirm, so the daily
-email can reach you. VeritaHire's privacy policy: https://veritahire.com/privacy.php
+name, phone or email. `/veritahire:watch` never asks for your email: it gives you a link, and you type your
+address on veritahire.com yourself. VeritaHire's privacy policy: https://veritahire.com/privacy.php
 Terms of service: https://veritahire.com/terms.php
 
 ## About
